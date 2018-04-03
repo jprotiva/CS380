@@ -1,3 +1,5 @@
-#Class Contact Info
+# Class Contact Info
 
-Steve Sheehy		ssheehy@eou.edu
+## Class List
+* Biff Bradley      bbradley@nothing.not  
+* Steve Sheehy		ssheehy@eou.edu  
