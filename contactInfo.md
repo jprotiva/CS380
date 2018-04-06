@@ -3,6 +3,7 @@
 ## Class List
 * Biff Bradley      bbradley@nothing.not  
 * Steve Sheehy		ssheehy@eou.edu  
+* Jose Ramirez		jramirez@eou.edu  
 * Carter Cordner    carter.cordner@gmail.com
 <<<<<<< HEAD
 <<<<<<< HEAD
