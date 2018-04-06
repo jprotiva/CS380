@@ -11,3 +11,4 @@
 * Robert Kiernan	rkiernan@eou.edu
 * Landon Wilder     lwilder@eou.edu
 * Robert Kiernan	rkiernan@eou.edu
+* Devin Griggs		griggsd@eou.edu
