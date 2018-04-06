@@ -13,4 +13,3 @@ Hello from Taylor Evans
 Hello from Jose	Ramirez  
 Hello from Uriel Torres  
 Hello from Devin Griggs
-Hello from Taylor Evans (SSH key test)
