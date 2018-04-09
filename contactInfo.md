@@ -12,4 +12,5 @@
 * Landon Wilder     lwilder@eou.edu
 * Robert Kiernan	rkiernan@eou.edu
 * Devin Griggs		griggsd@eou.edu
-* Jason Shirley		jshirley@eou.edu
+* Jason Shirley		jshirley@eou.edu  
+* cody fouts		cfouts@eou.edu  
