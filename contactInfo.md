@@ -14,3 +14,4 @@
 * Devin Griggs		griggsd@eou.edu
 * Jason Shirley		jshirley@eou.edu  
 * cody fouts		cfouts@eou.edu  
+* Geoff Butterworth	butterg@eou.edu
